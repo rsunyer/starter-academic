@@ -6,7 +6,7 @@ title: Raimon Sunyer
 superuser: true
 
 # Role/position/tagline
-role: Ramon y Cajal fellow
+role: Serra Húnter fellow (previous RyC)
 
 # Organizations/Affiliations to show in About widget
 organizations:
