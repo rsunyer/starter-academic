@@ -68,7 +68,7 @@ My research focuses on how mechanical signals trigger directed cell migration in
 </li>
 
 <li>
-<a href="https://www.investigacionyciencia.es/revistas/investigacion-y-ciencia/un-nuevo-plancton-737/mecanobiologa-de-los-tejidos-celulares-16420"> Mecanobiología de los tejidos celulares </a> (Spanish)
+<a href="uploads/NIYC0618_40-47.pdf"> Mecanobiología de los tejidos celulares </a> (Spanish)
 </li>
 <p>   </p>
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/rsunyer_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
